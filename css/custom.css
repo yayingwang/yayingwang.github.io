@@ -1,0 +1,39 @@
+/*
+Author: Ya Ying Wang
+*/
+
+.a-content-section {
+  padding-bottom: 60px;
+
+}
+
+.content-center-box {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.design-stage {
+  text-transform: uppercase;
+  color: cadetblue;
+  font-size: smaller;
+}
+
+.v-center {
+  display: flex;
+  align-items: center;
+}
+
+.content_layer_one {
+  margin-left: 10%
+}
+
+.content_layer_two {
+  margin-left: 10%;
+  margin-right: -100px;
+  padding-bottom: 60px
+}
+
+/* Footer */
+.socialaccount-icon {
+  font-size: 26px;
+}
